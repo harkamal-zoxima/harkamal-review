@@ -1,10 +1,10 @@
 {
   "name": "prince-pipes-dms-web",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "author": {
-    "name": "Omkar Deshmukh",
-    "email": "omkar.deshmukh@zoxima.com"
+    "name": "Harkamal Singh",
+    "email": "harkamal.singh@zoxima.com"
   },
   "main": "src/index.js",
   "displayName": "Prince Pipes DMS",
