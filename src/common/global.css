@@ -1,0 +1,42 @@
+body {
+  font-family: futura_book;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+}
+
+.input_icon {
+  position: absolute;
+}
+
+input {
+  background: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+select:focus {
+  outline: none;
+}
+
+.mou_container .MuiInputBase-input {
+  height: 16px !important;
+}
+
+.mou_container .MuiOutlinedInput-input {
+  padding: 2px !important;
+}
+
+.textField_Container .MuiInputBase-input {
+  height: 0px !important;
+}
+
+.dropDown_Container .MuiOutlinedInput-input {
+  padding: 10px !important;
+}

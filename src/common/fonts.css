@@ -1,0 +1,30 @@
+@font-face {
+    font-family: futura_book;
+    src: url(./font/Futura\ Book.ttf);
+}
+
+@font-face {
+    font-family: futura_bold;
+    src: url(./font/Futura\ Bold.otf);
+    letter-spacing: 1.5px;
+}
+
+@font-face {
+    font-family: futura_round;
+    src: url(./font/Futura\ Round.ttf);
+}
+
+@font-face {
+    font-family: futura_thin;
+    src: url(./font/Futura\ Thin.ttf);
+}
+
+@font-face {
+    font-family: futura_std_book;
+    src: url(./font/Futura\ Std\ Book.ttf);
+}
+
+@font-face {
+    font-family: futura_std_heavy;
+    src: url(./font/Futura\ Std\ Heavy.ttf);
+}
